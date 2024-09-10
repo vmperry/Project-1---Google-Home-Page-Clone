@@ -15,17 +15,12 @@ Technologies Used
   
 Setup and Installation
 - Clone the repository to your local machine.
-
-git clone https://github.com/your-username/google-search-page.git
-
 - Navigate to the project directory.
-
-
-
 - Open index.html in your preferred web browser.
   
 Code Overview
-HTMLThe HTML file sets up the structure of the page, including the header, search section, and footer.
+HTML
+The HTML file sets up the structure of the page, including the header, search section, and footer.
 
 CSS
 The CSS file styles the page, providing a responsive and visually appealing layout.
