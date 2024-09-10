@@ -26,7 +26,7 @@ CSS
 The CSS file styles the page, providing a responsive and visually appealing layout.
 
 File Structure
-google-search-page/
+
 │
 ├── images/
 │   ├── logo.png
